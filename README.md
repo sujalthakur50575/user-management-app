@@ -2,10 +2,19 @@
 
 This is a complete full-stack application for managing users, built with React and Node.js (Express). It provides a comprehensive set of features for user administration, including CRUD operations, bulk data management via Excel, and a responsive user interface.
 
+## Video for workflow: Please watch it 
+Watch it in 1.5x-1.75x and full screen
+   
+
+https://github.com/user-attachments/assets/f26e58db-539b-4378-9564-010ecf492217
+
+
+
 ## ✨ Features
 
+
 - **Full CRUD Functionality**: Create, Read, Update, and Delete users.
-- **Bulk User Upload**: Upload multiple users at once using an Excel file (`.xlsx` or `.xls`).
+- **Bulk User Upload**: Upload multiple users using an Excel file (`.xlsx` or `.xls`).
 - **Excel Template**: Download a pre-formatted Excel template to ensure correct data entry.
 - **Data Validation**: Robust server-side and client-side validation for all user fields:
   - **Email**: Valid format.
